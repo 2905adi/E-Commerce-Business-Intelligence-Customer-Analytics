@@ -190,7 +190,7 @@ The dashboard includes visual analysis of:
 
 ### Dashboard Preview
 
-![E-Commerce Executive Dashboard](assets/ecommerce_dashboard.png)
+![E-Commerce Executive Dashboard](assets/executive_dashboard.png)
 
 ---
 
